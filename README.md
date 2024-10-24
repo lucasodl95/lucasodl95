@@ -1,6 +1,6 @@
 ### Olá, sou Lucas Lacerda 📊
 
-👨‍💻Analista de dados e estudante de ciência de dados;
+👨‍💻Analista e cientista de dados;
 
 🧠Busca incessante por conhecimento;
 
