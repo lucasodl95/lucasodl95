@@ -12,7 +12,7 @@
 
 ### 💻 Linguagens e Ferramentas:
 
-- **Python, SQL, DAX, PySpark, Pandas**
+- **Python, SQL, DAX, PySpark**
 - **Matplotlib, Seaborn, Pandas, NumPy, Scikit-learn, TensorFlow, Keras**
 - **Jupyter Notebook, Google Colab**
 
