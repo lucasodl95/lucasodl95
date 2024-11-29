@@ -1,21 +1,64 @@
 ### Olá, sou Lucas Lacerda 📊
 
-👨‍💻Analista e cientista de dados;
+👨‍💻 **Analista de Dados com foco em se tornar Cientista e Engenheiro de Dados**;
 
-🧠Busca incessante por conhecimento;
+🧠 **Busca incessante por conhecimento**;
 
-🟢Formado em Psicologia e entusiasta de IA's;
+🟢 **Formado em Psicologia e entusiasta de Inteligência Artificial**;
 
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasanalistadados/)
 
-![Lacerda GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasodl95&show_icons=true&theme=dark)
+---
 
-### Tecnologias 🖥️
-<div style= "display: inline_block">
-<img align = "center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img align = "center" alt="sql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align = "center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</div><br/>
+### 💻 Linguagens e Ferramentas:
 
-![Lacerda GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasodl95&theme=dark)
+- **Python, SQL, DAX, PySpark, Pandas**
+- **Matplotlib, Seaborn, Pandas, NumPy, Scikit-learn, TensorFlow, Keras**
+- **Jupyter Notebook, Google Colab**
 
+---
+
+### ⚙️ Bancos de Dados:
+
+- **PostgreSQL, MariaDB, MySQL, SQL Server, DBeaver, MongoDB, DuckDB**
+
+---
+
+### ☁️ Computação em Nuvem e Pipelines de Dados:
+
+- **AWS** (Glue, Athena, Lambda, S3, ECS, Batch)
+- **Azure** (Data Factory, Azure Functions, Blob Storage, Logic Apps, Event Grid)
+- **Databricks**
+
+---
+
+### 📊 Visualização de Dados:
+
+- **Power BI**
+
+---
+
+### 🔄 Controle de Versão:
+
+- **Git (GitHub)**
+
+---
+
+### 🔨 Ferramentas de Gerenciamento de Projetos:
+
+- **Notion, Miro**
+
+---
+
+### 🏫 Coleta de Dados:
+
+- **APIs, Conexões SSH, Web Scraping**
+- **Pipelines com Python**
+  
+---
+
+### 🎲 Análise e Comunicação de Dados:
+
+- **Definição de KPIs e Indicadores**
+- **Probabilidade e Estatística**
+- **Storytelling com Dados**
